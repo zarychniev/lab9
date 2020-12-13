@@ -10,6 +10,10 @@ namespace lab9a
     {
         static void Main(string[] args)
         {
+            public class add
+        {
+                int start=0;
+        }
         }
     }
 }
